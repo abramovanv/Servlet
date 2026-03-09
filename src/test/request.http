@@ -7,5 +7,5 @@ Content-Type: application/json
 
 {
   "id": 0,
-  "content": "Last Post"
+  "content": "Old Post"
 }
